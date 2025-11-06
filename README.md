@@ -1,6 +1,6 @@
 # CI2025_lab2
 
-To solve this problem I used an eveolution approach. To make the testing easier I divided the code in imports, parameters, functions and resolving code.
+To solve this problem I used an evolution approach. To make the testing easier I divided the code in imports, parameters, functions and resolving code.
 The parameters are fine-tuned after a lot of tries on the code.
 The functions are equal for all problem size. My individuals are formed by a vector represented by the solution and the fitness value. The population is an heap formed by all the individuals. The use of an heap is due to make the insert and removing faster. 
 The number of generations are choose at run time based on the dimension of the problem. 
