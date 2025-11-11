@@ -1,0 +1,3 @@
+# Review
+
+The code works, the implementation seems good and correct even for the paths with negative weights. I like that you increased the number of iterations as the number of nodes increases even though it looks a bit overkill for my laptop. I tried to tune the hyperparameters a bit for a more efficient run but I couldn't really improve over your timings so good job on that. I would've liked an easier way to run all simulations at once and have the results saved in the notebook to make it easier to compare. I also added a `pyrpoject.toml` for the dependencies to make it easier to set up a virtual environment (`uv sync`).
